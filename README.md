@@ -3,13 +3,13 @@
 Nesse desafio foi solicitado a criação de um projeto capaz de executar as etapas de um ETL (Extract, Transform, Load)
 
 *******
-<h2> <font color="#C71585">**Sumario**</font></h2>
+# <font color="#C71585">**Sumario**</font>
  - [Descrição do projeto](#project_description)
  - [Benefícios do Projeto](#benefits)
  - [Como rodar esse projeto localmente](#initializingapp)
 *******
 
-<a id="project_description></a>
+<div id="project_description></div>
 
 # <font color="#C71585">**Descrição do projeto**</font> 
 
@@ -29,7 +29,7 @@ Nesse desafio foi solicitado a criação de um projeto capaz de executar as etap
 
 ![Print Mostrando CSV Final]([image_csv.png](https://github.com/AmandaE19/ETL-with-Monday/blob/main/src/images/image_csv.png?raw=true)
 
-<a id="benefits"></a>
+<div id="benefits"></div>
 
 # <font color="#C71585">**Benefícios do Projeto**</font>
 
@@ -41,7 +41,7 @@ Nesse desafio foi solicitado a criação de um projeto capaz de executar as etap
 
 **Eficiência:** Automatiza tarefas repetitivas, garantindo uma abordagem consistente e eficiente na cobrança de dívidas.
 
-<a id="initializingapp></a>
+<div id="initializingapp></div>
 
 # <font color="#C71585">**Como rodar locamente esse projeto**</font>
 
