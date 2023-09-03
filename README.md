@@ -11,7 +11,7 @@ Nesse desafio foi solicitado a criação de um projeto capaz de executar as etap
 
 <div id="project_description></div>
 
-# <font color="#C71585">**Descrição do projeto**</font> 
+#<font color="#C71585">Descrição do projeto</font> 
 
 **Título do Projeto:** Gerador de Mensagens de Cobrança
 
@@ -31,7 +31,7 @@ Nesse desafio foi solicitado a criação de um projeto capaz de executar as etap
 
 <div id="benefits"></div>
 
-# <font color="#C71585">**Benefícios do Projeto**</font>
+#<font color="#C71585">Benefícios do Projeto</font>
 
 **Economia de Tempo:** Elimina a necessidade de criar manualmente mensagens de cobrança, economizando um tempo valioso que pode ser direcionado para outras tarefas importantes.
 
@@ -43,7 +43,7 @@ Nesse desafio foi solicitado a criação de um projeto capaz de executar as etap
 
 <div id="initializingapp></div>
 
-# <font color="#C71585">**Como rodar locamente esse projeto**</font>
+#<font color="#C71585">Como rodar locamente esse projeto</font>
 
 Será necessário uma conta na Monday.com em modo desenvolvedor, que tenha acesso as chaves necessárias e uma conta na OpenAI com crédito para que as mensagens possam ser geradas. Para conseguir a apiKey da OpenAI [clique aqui](https://platform.openai.com/account/api-keys) e para conseguir o token de acesso Monday.com no perfil da sua conta (canto superior direito), clique em "developers" depois em "Meus tokens de acesso", caso já possua um token basta clicar em mostrar, se não crie um token.
 * Passo 1: Faça um clone desse repositório
