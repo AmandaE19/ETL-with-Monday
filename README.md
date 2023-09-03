@@ -3,10 +3,10 @@
 Nesse desafio foi solicitado a criação de um projeto capaz de executar as etapas de um ETL (Extract, Transform, Load)
 
 *******
-# <font color="#C71585">**Sumario**</font>
- 1. [Descrição do projeto](#project_description)
- 2. [Benefícios do Projeto](#benefits)
- 3. [Como rodar esse projeto localmente](#initializingapp)
+<h2> <font color="#C71585">**Sumario**</font></h2>
+ - [Descrição do projeto](#project_description)
+ - [Benefícios do Projeto](#benefits)
+ - [Como rodar esse projeto localmente](#initializingapp)
 *******
 
 <a id="project_description></a>
@@ -21,13 +21,13 @@ Nesse desafio foi solicitado a criação de um projeto capaz de executar as etap
 
 * **Integração com o Monday.com:** O sistema se conecta diretamente ao Monday.com, uma plataforma de gestão de projetos e tarefas, para coletar informações relevantes sobre os clientes e suas dívidas. Esses dados foram definidos nesse projeto como o nome do cliente, o valor da dívida e a referência da dívida.
 
-![Print Exemplificando Estrutura Monday](image.png)
+![Print Exemplificando Estrutura Monday]([image.png](https://github.com/AmandaE19/ETL-with-Monday/blob/main/src/images/image.png?raw=true))
 
 * **Geração de Mensagens Personalizadas:** Uma vez que os dados são coletados do Monday.com, o sistema utiliza a poderosa tecnologia da OpenAI para criar mensagens de cobrança personalizadas. Isso garante que cada cliente receba uma mensagem adaptada à sua situação específica, melhorando as chances de obter uma resposta positiva.
 
 * **Armazenamento em CSV**: Todas as informações relevantes, incluindo o nome do cliente, o valor da dívida, a referência da dívida e a mensagem de cobrança gerada, são cuidadosamente registradas e armazenadas em um arquivo CSV. Isso permite que o usuário mantenha um histórico organizado de todas as interações com os clientes e rastreie o progresso das cobranças ao longo do tempo. Essa versão ainda não irá juntar as mensagens geradas em diferentes momentos, a cada vez que o projeto for inicializado um novo CSV será gerado, e de acordo com os dados no Monday poderá ou não repetir clientes, para evitar que mensagens para clientes sejam feitas mais de uma vez, basta acessar a plataforma Monday.com e alterar manualmente o status dos cliente que já possuem mensagem para "Feito". Clientes com status "Pendente" terão as mensagens criadas no script.
 
-![Print Mostrando CSV Final](image_csv.png)
+![Print Mostrando CSV Final]([image_csv.png](https://github.com/AmandaE19/ETL-with-Monday/blob/main/src/images/image_csv.png?raw=true)
 
 <a id="benefits"></a>
 
