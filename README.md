@@ -9,7 +9,7 @@ Nesse desafio foi solicitado a criação de um projeto capaz de executar as etap
  3. [Como rodar esse projeto localmente](#initializingapp)
 *******
 
-<div id="project_description>
+<a id="project_description></a>
 
 # <font color="#C71585">**Descrição do projeto**</font> 
 
@@ -29,9 +29,7 @@ Nesse desafio foi solicitado a criação de um projeto capaz de executar as etap
 
 ![Print Mostrando CSV Final](image_csv.png)
 
-</div>
-
-<div id="benefits">
+<a id="benefits"></a>
 
 # <font color="#C71585">**Benefícios do Projeto**</font>
 
@@ -43,9 +41,7 @@ Nesse desafio foi solicitado a criação de um projeto capaz de executar as etap
 
 **Eficiência:** Automatiza tarefas repetitivas, garantindo uma abordagem consistente e eficiente na cobrança de dívidas.
 
-</div>
-
-<div id="initializingapp>
+<a id="initializingapp></a>
 
 # <font color="#C71585">**Como rodar locamente esse projeto**</font>
 
